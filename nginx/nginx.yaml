@@ -1,0 +1,19 @@
+depend:
+  - mysql@5.7.21
+
+# 这里的参数可以通过
+env:
+  VERSION: 1.15.10
+  NGINX_PREFIX: /usr/local/nginxdepend:
+  - mysql@5.7.21
+
+# 这里的参数可以通过
+env:
+  VERSION: 1.15.10
+  NGINX_PREFIX: /usr/local/nginxdepend:
+  - mysql@5.7.21
+
+# 这里的参数可以通过
+env:
+  VERSION: 1.15.10
+  NGINX_PREFIX: /usr/local/nginx

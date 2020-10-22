@@ -1,1 +1,1 @@
-安装nginx，xxxx
+ubuntu安装nginx，xxxx
